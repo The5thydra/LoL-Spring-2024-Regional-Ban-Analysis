@@ -10,7 +10,14 @@ Data sets consisted of the different champions and their ban % during the 'Sprin
 The different data sets were cleaned and analyzed by region with the following metrics: Number of Unique Champion Bans, Ban Concentration and Standard Deviation of Bans. 
 
 #Findings:
+Number of Unique Bans by Region
+![Unique Bans](unique_bans.png)
 
+Ban Concentration by Region
+![Ban Concentration](ban_concentration.png)
+
+Standard Deviation of Bans by Region
+![Ban SD](ban_sd.png)
 
 #Key Observations:
 1) LPL is the most diversified in terms of unique champion bans (68 unique bans vs ~57-58 unique bans in other regions).
